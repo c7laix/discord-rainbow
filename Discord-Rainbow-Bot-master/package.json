@@ -18,7 +18,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Discord-Library/Discord-Rainbow-Bot.git"
+    "url": "git+https://github.com/c7laix/discord-rainbow.git"
   },
   "keywords": [
     "discord",
@@ -30,7 +30,7 @@
   ],
   "author": "Discord Library",
   "bugs": {
-    "url": "https://github.com/Discord-Library/Discord-Rainbow-Bot/issues"
+    "url": "https://github.com/c7laix/discord-rainbow/issues"
   },
-  "homepage": "https://github.com/Discord-Library/Discord-Rainbow-Bot#readme"
+  "homepage": "https://github.com/c7laix/discord-rainbow#readme"
 }
