@@ -1,0 +1,36 @@
+{
+  "name": "discord-rainbow",
+  "version": "2.0.8",
+  "description": "This is a discord rainbow bot created by discord library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord.js": "^12.2.0",
+    "ntcjs": "^1.1.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Discord-Library/Discord-Rainbow-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discordbot",
+    "discord",
+    "rainbow",
+    "discord.js",
+    "rainbow"
+  ],
+  "author": "Discord Library",
+  "bugs": {
+    "url": "https://github.com/Discord-Library/Discord-Rainbow-Bot/issues"
+  },
+  "homepage": "https://github.com/Discord-Library/Discord-Rainbow-Bot#readme"
+}
