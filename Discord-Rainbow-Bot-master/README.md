@@ -30,7 +30,7 @@ This is a rainbow discord bot, make by Discord Library to the discord users, eas
 >## Prerequisites 
 • Node.js (12.x or higher)
 >## Informations
-• [Discord Server](https://discord.gg/5Ka5aKx 'The Official Discord Server for Discord Library')
+• [Discord Server](https://discord.gg/eyH9zKhXRu 'The Official Discord Server for Discord Library')
 
 • [Youtube Video](https://www.youtube.com/watch?v=RjqiQ-CQ-eU 'The Setup Video')
 >## License
